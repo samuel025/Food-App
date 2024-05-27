@@ -1,4 +1,3 @@
-# food_app
+# Ecommerce Food APP
 
-A new Flutter project.
-"# An ecommerce mobile app made with flutter" 
+ An ecommerce mobile app made with flutter with a very nice UI
